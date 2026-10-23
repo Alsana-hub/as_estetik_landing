@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://as-estetik.ru/sitemap.xml
